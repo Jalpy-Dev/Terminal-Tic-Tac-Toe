@@ -135,3 +135,5 @@ while True and plays < 9:
         break
 
     plays += 2
+
+print("Game ended in a tie :/")
